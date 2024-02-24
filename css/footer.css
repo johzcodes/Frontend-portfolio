@@ -1,0 +1,12 @@
+.footer-container {
+  margin-top: 10px;
+  padding: 20px;
+  background: #ffffff;
+  text-align: center;
+}
+.footer-container .links a {
+  padding: 20px;
+}
+.footer-container .links a img {
+  width: 30px;
+}/*# sourceMappingURL=footer.css.map */

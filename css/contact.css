@@ -1,0 +1,30 @@
+* {
+  margin: 0px;
+}
+
+.contact-container {
+  background: url("../assets/icons/defaultcard-hover-5eef4f0957217910c705b56db7539e0f.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin-top: 30px;
+  padding: 20px;
+  text-align: center;
+}
+.contact-container h2 {
+  margin-bottom: 10px;
+}
+.contact-container form {
+  display: flexbox;
+}
+.contact-container form #email, .contact-container form #name {
+  padding: 15px 30px;
+  margin: 10px auto;
+  border: none;
+  border-radius: 5px;
+}
+.contact-container form button {
+  background: #125472;
+  border: none;
+  color: #fff;
+}/*# sourceMappingURL=contact.css.map */
